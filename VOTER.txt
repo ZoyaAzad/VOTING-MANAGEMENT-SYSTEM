@@ -1,0 +1,2 @@
+ NA NUMBER      PA NUMBER                CNIC           NAME                 AGE
+        43             12       1234563245123      Zoya Azad                  19
